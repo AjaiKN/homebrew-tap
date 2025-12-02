@@ -1,5 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://docs.brew.sh/rubydoc/Formula
 class AknTrash < Formula
   desc "A bash CLI for putting files in the trash"
   homepage "https://github.com/AjaiKN/trash"
