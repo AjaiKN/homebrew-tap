@@ -1,8 +1,8 @@
 class ZapSh < Formula
   desc "Bash CLI for putting files in the trash"
   homepage "https://github.com/AjaiKN/zap.sh"
-  url "https://github.com/AjaiKN/zap.sh/archive/refs/tags/v0.0.9.tar.gz"
-  sha256 "7a7e2619bb70cac2c4bd02717591bb0576f024d34ab381b710d1603490a23dab"
+  url "https://github.com/AjaiKN/zap.sh/archive/refs/tags/v0.0.10.tar.gz"
+  sha256 "952d780423dba4e74a318b1ebca3240b70d6c64e2a340d82141a0c107820cda3"
   license "GPL-3.0-or-later"
 
   def install
