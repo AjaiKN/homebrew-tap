@@ -8,6 +8,7 @@ class ZapSh < Formula
   def install
     bin.install Dir["bin/*"]
     man.install Dir["man/*"]
+    bash_completion.install "completions/bash/zap"
     zsh_completion.install "completions/zsh/_zap"
   end
 
